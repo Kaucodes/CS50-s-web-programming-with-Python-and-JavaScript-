@@ -1,6 +1,0 @@
-#When you and someone else make changes in the very same time and try to push it on git,
-#You 'll have a bug --> this bug is called Merge Conflict
-
-# To solve
-
-#You need to change your code to suit the code on github:>
